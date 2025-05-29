@@ -18,8 +18,10 @@ environments:
     modified: 1748519778910
     isPrivate: false
 spec:
-  contents: some words
+  contents: |-
+    some words
+    more words
   meta:
     id: spc_2ed00aa350c14678bcc2df29f03946f8
     created: 1748519778909
-    modified: 1748519782301
+    modified: 1748519805764
