@@ -1,0 +1,25 @@
+type: spec.insomnia.rest/5.0
+name: test-document-1
+meta:
+  id: wrk_5fee80bc732d4756a98c00d0f2ddc60f
+  created: 1748519778906
+  modified: 1748519778906
+cookieJar:
+  name: Default Jar
+  meta:
+    id: jar_8d887ef13cd26d87968c94887ca0f3c54d7df646
+    created: 1748519778911
+    modified: 1748519778911
+environments:
+  name: Base Environment
+  meta:
+    id: env_8d887ef13cd26d87968c94887ca0f3c54d7df646
+    created: 1748519778910
+    modified: 1748519778910
+    isPrivate: false
+spec:
+  contents: some words
+  meta:
+    id: spc_2ed00aa350c14678bcc2df29f03946f8
+    created: 1748519778909
+    modified: 1748519782301
