@@ -1,0 +1,16 @@
+type: environment.insomnia.rest/5.0
+name: test-environment-export
+meta:
+  id: wrk_14ec51d33f3f4730a82594a861c21b46
+  created: 1752488646074
+  modified: 1752488646074
+  description: ""
+environments:
+  name: Base Environment
+  meta:
+    id: env_049fe3c46d04ffc346203bb5eed954b352634138
+    created: 1752488646081
+    modified: 1752488651213
+    isPrivate: false
+  data:
+    some-key: some-value
